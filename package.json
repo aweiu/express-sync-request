@@ -1,0 +1,22 @@
+{
+  "name": "express-sync-request",
+  "version": "0.0.1",
+  "description": "基于Promise的express异步请求队列控制,一般用于控制数据库的删改并发请求",
+  "keywords": [
+    "express",
+    "express-sync",
+    "express-async"
+  ],
+  "author": {
+    "name": "余阿伟"
+  },
+  "main": "express-sync-request.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aweiu/express-sync-request.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "synchronize-promise": "0.x"
+  }
+}
