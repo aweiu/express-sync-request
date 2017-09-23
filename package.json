@@ -1,7 +1,7 @@
 {
   "name": "express-sync-request",
-  "version": "0.0.1",
-  "description": "基于Promise的express异步请求队列控制,一般用于控制数据库的删改并发请求",
+  "version": "0.0.2",
+  "description": "基于Promise的express异步请求队列控制，一般用于控制数据库的删改并发请求",
   "keywords": [
     "express",
     "express-sync",

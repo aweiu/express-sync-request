@@ -1,5 +1,5 @@
 # express-sync-request
-基于Promise的express异步请求队列控制,一般用于控制数据库的删改并发请求
+基于Promise的express异步请求队列控制，一般用于控制数据库的删改并发请求
 
 ## 安装
 ```
